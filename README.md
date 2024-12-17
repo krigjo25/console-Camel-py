@@ -1,19 +1,9 @@
 # CamelCase
-An application to converte from CamelCase to snake_case
-
-
-Usage : type in the terminal python camel.py,
-wait for the prompt then type something with Case
-
+An application to convert from CamelCase to snake_case
 
 The application was implemented as an assignment at CS50P
 Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.<br>
-A demo of the application can be watched at [CS50's page](https://cs50.harvard.edu/python/2022/psets/2/camel/)
-
-
-##  Testing framework
-
-No testing framework used in the project
+[Demo : CamelCase](https://cs50.harvard.edu/python/2022/psets/2/camel/)
 
 ## Installation
 

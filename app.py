@@ -1,5 +1,4 @@
-
-#   Prompting the user with a input
+#   CamelCase
 def main():
     snake_case= ""
 
