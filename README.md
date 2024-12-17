@@ -3,10 +3,9 @@ An application to convert from CamelCase to snake_case
 
 The application was implemented as an assignment at CS50P
 Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.<br>
-[Demo : CamelCase](https://cs50.harvard.edu/python/2022/psets/2/camel/)
+A demo can be watched at [Demo : CamelCase](https://cs50.harvard.edu/python/2022/psets/2/camel/)
 
 ## Installation
-
 1. Clone the repository:
 ```sh
 git clone https://github.com/krigjo25/console-camelcase_converter-py.git
@@ -23,7 +22,6 @@ python app.py
 ```
 
 ##  Usage
-
 To use the application, run the following command in your terminal
 
 ```sh
@@ -32,7 +30,6 @@ then type something in CamelCase.
 ```
 
 ## Example
-
 ```sh
 python app.py
 
@@ -45,16 +42,13 @@ camelCase: CamelCaseNinja
 expected output: camel_case_ninja
 ```
 
-## LICENCE
+##  Testing framework / Datasets
+No testing framework used in the project
 
+## LICENCE
 The application is under [The Unlicensed](./LICENCE).
 
-##  Testing framework / Data sets
-
-No tests for this project
-
 ## Notes from the developer
-
 Created with love, for python programming,
 
 Thanks for reading, and have a blessed day,<br>
